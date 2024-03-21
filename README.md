@@ -31,8 +31,6 @@ Users should be able to:
 ### Links
 
 - Solution URL: [ https://chkhs.github.io/Blog-preview-card/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
 
 ### Built with
