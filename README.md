@@ -48,7 +48,6 @@ I Still need to focus on more on CSS. As I build more projects I will also conti
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@chkhs](https://www.frontendmentor.io/profile/yourusername)
 
 
