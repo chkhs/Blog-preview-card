@@ -27,10 +27,6 @@ Users should be able to:
 ### Screenshot
 <img width="1657" alt="Blog review" src="https://github.com/chkhs/Blog-preview-card/assets/139511273/e00a9886-9c90-41a3-a7e8-efe50fc2ace6">
 
-
-### Links
-
-- Solution URL: [ ]
 ## My process
 
 ### Built with
