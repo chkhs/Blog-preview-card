@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ https://chkhs.github.io/Blog-preview-card/)]
+- Solution URL: [ ]
 ## My process
 
 ### Built with
